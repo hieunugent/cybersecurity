@@ -45,6 +45,13 @@ Security frameworks and control:
   - identifying security weaknesses
   - managing organizational risks
   - Aligning security with business goals
+- Frameworks has Four core components:
+  - Goals
+  - Guidelines
+  - Processes
+  - communication
+- components of security frameworks
+  - identifying and documenting security goals
 
 Ethics of security:
 
