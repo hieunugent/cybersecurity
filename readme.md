@@ -52,6 +52,11 @@ Security frameworks and control:
   - communication
 - components of security frameworks
   - identifying and documenting security goals
+  - setting guidelines to achieve security goals
+  - Implementing strong security processes
+  - monitoring and communicate results
+- security controls:
+  - safeguards designed to reduce specific security risks
 
 Ethics of security:
 
