@@ -69,8 +69,17 @@ Ethical principles in security:
   - confidentiality
   - Privacy protection : means safeguarding personal information form unauthorized use
   - Laws are rules that are recognized by a community and enforced by a governing entity
-
-
+Important programming tools:
+- SIEM tools : Security information and event management tools : an application that collects and analyses log data to monitor critical activities in an organization
+  - splunk is a data analysis platform
+  - chronicle is a cloud native (fast delivery of new feature) sime tool that stores securities data for search and analysis
+- playbooks : a manual that provides details about any operational action 
+- network protocol analyzers (packets sniffer) : a tool designed to capture adn analyze data traffic within a network
+- Linux operating system : open source 
+- programming languages
+  - python: used to perform tasks that are repetitive and time consuming and that require a high level of detail and accuracy
+  - sql: a programming language used to create interact with and request information from a database (an organize collection of data)
+- Log : a recode of events that occur within an organization's systems
 
 
 
