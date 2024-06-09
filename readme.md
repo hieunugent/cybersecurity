@@ -80,7 +80,16 @@ Important programming tools:
   - python: used to perform tasks that are repetitive and time consuming and that require a high level of detail and accuracy
   - sql: a programming language used to create interact with and request information from a database (an organize collection of data)
 - Log : a recode of events that occur within an organization's systems
+How To Manage Security Risks and Threats:
+1. CISSP's eight security domains:
+  - security posture : an organization's ability to manage is defense of critical assets and data adn react to change
+  - security and risk management: Focused on defining security goals and objectives, risk mitigation, compliance, business continuity, and legal regulation
+    - Risk mitigation: the process of having the right procedures and rules in places to quickly reduce the impact of a risk like a breach  
 
+2. Security frameworks and controls
+security audits
+Basic security Tools
+Protect assets and data
 
 
 
