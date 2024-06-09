@@ -57,8 +57,18 @@ Security frameworks and control:
   - monitoring and communicate results
 - security controls:
   - safeguards designed to reduce specific security risks
-
-Ethics of security:
+CIA triad: (COnfidentially Integrity Availability)
+  - a foundational model that helps inform how organizations consider risk when setting up systems and security policies
+  - Confidentially: only authorized users can access specific assets or data
+  - Integrity: Data is correct, authentic, and reliable
+  - Availability: Data is accessible to those who are authorized to access it
+  - Asset : an item perceived as having value to an organization
+NIST Cybersecurity Framework (CSF):
+  - A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk 
+Ethical principles in security: 
+  - confidentiality
+  - Privacy protection : means safeguarding personal information form unauthorized use
+  - Laws are rules that are recognized by a community and enforced by a governing entity
 
 
 
