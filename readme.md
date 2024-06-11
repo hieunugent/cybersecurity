@@ -82,11 +82,15 @@ Important programming tools:
 - Log : a recode of events that occur within an organization's systems
 How To Manage Security Risks and Threats:
 1. CISSP's eight security domains:
-  - security posture : an organization's ability to manage is defense of critical assets and data adn react to change
-  - security and risk management: Focused on defining security goals and objectives, risk mitigation, compliance, business continuity, and legal regulation
+  1. security posture : an organization's ability to manage is defense of critical assets and data adn react to change
+  2. security and risk management: Focused on defining security goals and objectives, risk mitigation, compliance, business continuity, and legal regulation
     - Risk mitigation: the process of having the right procedures and rules in places to quickly reduce the impact of a risk like a breach  
-
-2. Security frameworks and controls
+    - Business continuity : an organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans 
+  - asset security : focused on securing digital and physical assets. It's also related to the storage, maintenance, retention, and destruction of data
+  - Security Architecture and engineering
+  3. Security frameworks and controls : Focused on optimizing data security by ensuring effective tools, stems, and processes are in place to protect an organization's assets and data
+  - Shared Responsibility: All individuals within an organization take an activee rle in lowering risk and maintaining both physical and virtual security
+  4. Communication and network security : focused on managing and securing physical networks and wireless communication
 security audits
 Basic security Tools
 Protect assets and data
