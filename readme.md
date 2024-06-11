@@ -82,19 +82,52 @@ Important programming tools:
 - Log : a recode of events that occur within an organization's systems
 How To Manage Security Risks and Threats:
 1. CISSP's eight security domains:
-  1. security posture : an organization's ability to manage is defense of critical assets and data adn react to change
-  2. security and risk management: Focused on defining security goals and objectives, risk mitigation, compliance, business continuity, and legal regulation
+  -  security posture : an organization's ability to manage is defense of critical assets and data adn react to change
+  1. security and risk management: Focused on defining security goals and objectives, risk mitigation, compliance, business continuity, and legal regulation
     - Risk mitigation: the process of having the right procedures and rules in places to quickly reduce the impact of a risk like a breach  
     - Business continuity : an organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans 
-  - asset security : focused on securing digital and physical assets. It's also related to the storage, maintenance, retention, and destruction of data
+  2. asset security : focused on securing digital and physical assets. It's also related to the storage, maintenance, retention, and destruction of data
   - Security Architecture and engineering
   3. Security frameworks and controls : Focused on optimizing data security by ensuring effective tools, stems, and processes are in place to protect an organization's assets and data
-  - Shared Responsibility: All individuals within an organization take an activee rle in lowering risk and maintaining both physical and virtual security
+  - Shared Responsibility: All individuals within an organization take an active rle in lowering risk and maintaining both physical and virtual security
   4. Communication and network security : focused on managing and securing physical networks and wireless communication
+  5. Identity and Access management : Focused on access and authorization to keep data secure, by making sure users follow established policies to control and manage assets
+    - Components of IAM :
+      - Identification 
+      - Authentication
+      - Authorization
+      - Accountability
+  6. Security Assessment and testing : Focused on conduction security control testing, collecting and analyzing data, and conducting security audits to monitor for risks. threats, and Vulnerability
+  7. Security Operations : Focused on conducting investigations and implementing preventative measures
+  8. Software Development security : Focused on using secure coding practice
 security audits
 Basic security Tools
 Protect assets and data
-
+Navigate Threats, risks, and Vulnerabilities
+- Threat: Any circumstance or event that can negatively impact assets
+- Social Engineering : a manipulation technique that exploits human error to gain private information, access, or valuables
+- Risk: anything that can impact the confidentiality, integrity or availability of an asset
+  - Low- risk asset : information that would not harm the organization's reputation or ongoing operations, and would not cause financial damage if compromised
+  - Medium-risk asset : information that's not available to the public and may cause some damage to the organization's finances, reputation, or ongoing operations (annual report income)
+  - High risk asset : information protected by regulations or laws which if compromised would have a severe negative impact on an organization;s finances, ongoing operations or reputation (assets with SPII PII or intellectual property)
+- Vulnerability: A weakness that can be exploited by a threat
+- Ransomware : a malicious attack where there actors encrypt an organization's data and demand payment to restore access
+- Layers of the web
+  - Surface web
+  - deep web
+  - dark web
+- Key impacts:
+  - Financial
+  - identity Theft
+  - reputation
+NIST - RMF: (7 steps)
+    1. Prepare : Activities that are necessary to manage security and privacy risks before a breach occurs
+    2. Categorize : used to develop risk management process and tasks
+    3. Select : Choose, customize, and capture documentation of the controls that protect an organization
+    4. Implement : Implement security and privacy plans for the organization
+    5. Assess : determine if establish controls are implemented correctly
+    6. Authorize: Being accountable for the security and privacy risks that may exits in an organization
+    7. Monitor: Be aware of how systems are operating
 
 
 
