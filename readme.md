@@ -57,7 +57,7 @@ Security frameworks and control:
   - monitoring and communicate results
 - security controls:
   - safeguards designed to reduce specific security risks
-CIA triad: (COnfidentially Integrity Availability)
+CIA triad: (Confidentially Integrity Availability)
   - a foundational model that helps inform how organizations consider risk when setting up systems and security policies
   - Confidentially: only authorized users can access specific assets or data
   - Integrity: Data is correct, authentic, and reliable
@@ -135,7 +135,16 @@ controls
 design principles
 security audits
 - Security Frameworks : Guidelines used for building plans to help mitigate risk threats to data and privacy
+- Security controls: safeguards designed to reduce  specific security risks 
+  - Encryption: The process of converting data from a readable format to an encoded format
+  - Authentication: the process of verifying who someone or something is
+    - Biometrics: unique physical characteristics that can be used to verify a person's identity
+    - Vishing: the exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
+  - Authorization: the concept of granting access to specify resource within system
 
-
+NIST Cybersecurity Framework (CSF)\
+A voluntary framework that consist of standards, guidelines, and best practices to manage cybersecurity risk.
+  five importance core : identify- protect- detect -respond-recover
+- NIST S.P. 800-53 : a unified framework for protecting the security of information systems within the federal government
 
 
