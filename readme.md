@@ -129,6 +129,12 @@ NIST - RMF: (7 steps)
     6. Authorize: Being accountable for the security and privacy risks that may exits in an organization
     7. Monitor: Be aware of how systems are operating
 
+Framework and controls:
+Frameworks
+controls
+design principles
+security audits
+- Security Frameworks : Guidelines used for building plans to help mitigate risk threats to data and privacy
 
 
 
